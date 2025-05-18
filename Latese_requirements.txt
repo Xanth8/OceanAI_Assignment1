@@ -1,0 +1,17 @@
+torch>=2.2
+transformers>=4.40
+accelerate
+bitsandbytes
+sentence-transformers
+langchain
+langchain-community
+chromadb
+pymupdf
+pdfminer.six
+camelot-py[cv]
+pillow
+gradio
+tqdm
+torchvision
+torchaudio
+pytesseract
